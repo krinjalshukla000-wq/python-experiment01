@@ -1,0 +1,46 @@
+# compound interest
+"""
+P = 100      
+r = 0.5      
+t = 0.2
+n = 1         
+
+A = P * (1 + r/n)**(n*t)
+
+print("Total amount after", t, "years is:", round(A, 2))
+"""
+# Area of a rectangle
+"""
+length = 5
+width = 5
+
+area = length * width
+
+print("Area of the rectangle is:", area)
+"""
+# Swapping two numbers using three variables
+"""
+a = 5
+b = 10
+c = 0  
+
+print("Before swapping:")
+print("a =", a)
+print("b =", b)
+
+c = a
+a = b
+b = c
+
+print("After swapping:")
+print("a =", a)
+print("b =", b)
+"""
+#average of three numbers
+"""
+a=int(input("enter your num1:"))
+b=int(input("enter your num2:"))
+c=int(input("enter your num3:"))
+avg=(a+b+c)/2
+print("the no. is average",avg)
+"""
